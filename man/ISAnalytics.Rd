@@ -2,6 +2,7 @@
 % Please edit documentation in R/ISAnalytics-package.R
 \docType{package}
 \name{ISAnalytics}
+\alias{ISAnalytics-package}
 \alias{ISAnalytics}
 \title{ISAnalytics: Analyze gene therapy vector insertion sites data
 identified from genomics next generation sequencing reads for
@@ -38,4 +39,25 @@ and Annotation of Vector Integration Sites}
 }
 }
 
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://calabrialab.github.io/ISAnalytics}
+  \item \url{https://github.com//calabrialab/isanalytics}
+  \item \url{https://calabrialab.github.io/ISAnalytics/}
+  \item Report bugs at \url{https://github.com/calabrialab/ISAnalytics/issues}
+}
+
+}
+\author{
+\strong{Maintainer}: Francesco Gazzo \email{gazzo.francesco@hsr.it}
+
+Authors:
+\itemize{
+  \item Giulia Pais \email{giuliapais1@gmail.com} (\href{https://orcid.org/0009-0005-5621-4803}{ORCID})
+  \item Andrea Calabria \email{calabria.andrea@hsr.it}
+  \item Giulio Spinozzi \email{spinozzi.giulio@hsr.it}
+}
+
+}
 \keyword{internal}

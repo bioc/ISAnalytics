@@ -1,6 +1,13 @@
 NEWS
 ================
 
+# ISAnalytics 1.13.1 (2024-12-05)
+
+## BUG FIXES
+
+- Fixed bug in call to `print.data.table` that broke examples for
+  `CIS_Grubbs`.
+
 # ISAnalytics 1.11.2 (2023-07-26)
 
 ## FIXES

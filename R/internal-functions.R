@@ -4228,7 +4228,7 @@
                     "the matrix. Here is a summary: "
                 ),
                 paste0(utils::capture.output({
-                    print(missing_genes, n = Inf)
+                    print(missing_genes, nrows = Inf)
                 }), collapse = "\n"),
                 sep = "\n"
             ),
