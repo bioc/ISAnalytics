@@ -26,10 +26,9 @@
 #' @section Vignettes:
 #' * \code{vignette("workflow_start", package = "ISAnalytics")}
 #'
-#' @docType package
 #' @name ISAnalytics
 #' @keywords internal
-NULL
+"_PACKAGE"
 
 ## usethis namespace: start
 #' @import lifecycle
