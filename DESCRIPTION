@@ -1,6 +1,10 @@
 Package: ISAnalytics
 Title: Analyze gene therapy vector insertion sites data identified from genomics next generation sequencing reads for clonal tracking studies
+<<<<<<< HEAD
 Version: 1.17.0
+=======
+Version: 1.13.1
+>>>>>>> f109175 (version bump to dev 1.13.1)
 Date: 2020-07-03
 Authors@R: c(
   person(given = "Francesco",
@@ -28,7 +32,7 @@ URL: https://calabrialab.github.io/ISAnalytics,
 BugReports: https://github.com/calabrialab/ISAnalytics/issues
 biocViews: BiomedicalInformatics, Sequencing, SingleCell
 Depends: 
-    R (>= 4.3)
+    R (>= 4.5)
 Imports: 
     utils,
     dplyr,
@@ -57,7 +61,7 @@ Imports:
 Encoding: UTF-8
 LazyData: false
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 Suggests: 
     testthat,
     covr,
