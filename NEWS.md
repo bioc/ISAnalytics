@@ -1,7 +1,7 @@
 NEWS
 ================
 
-# ISAnalytics 1.13.1 (2024-12-05)
+# ISAnalytics 1.16.1 (2024-12-05)
 
 ## BUG FIXES
 
